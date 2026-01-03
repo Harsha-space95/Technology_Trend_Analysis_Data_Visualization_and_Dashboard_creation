@@ -18,9 +18,9 @@ Created bar charts to summarize
    * the top 10 programming languages for the current year.
    * the anticipated programming language trends for the next year.
    * the top 10 databases currently in use.
-   * Top 10 Databases anticipated for Future Use
+   * the top 10 Databases anticipated for Future Use
    * Job Postings by Technology (Descending Order)
-   * Average Salary by Programming Language (Descending Order)"
+   * Average Salary by Programming Language (Descending Order)
 
 ## Created 3 dashboards using IBM Cognos Analytics as follows:
 1. Current Technology Usage
