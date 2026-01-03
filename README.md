@@ -7,7 +7,21 @@
 Stack Survey data
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv
 
-## Created 3 dashboards as follows:
+## Files included
+* .ipynb file for creating data visualization using python is uploaded.
+*  Screenshots of Dashboard created using IBM Cognos Analytics is added
+*  Technology trends in analyzed and the report is presented in project_ppt.pdf uploaded above.
+
+## Data Visualizations made with Python 
+Created bar charts to summarize
+   * the top 10 programming languages for the current year.
+   * the anticipated programming language trends for the next year.
+   * the top 10 databases currently in use.
+   * Top 10 Databases anticipated for Future Use
+   * Job Postings by Technology (Descending Order)
+   * Average Salary by Programming Language (Descending Order)"
+
+## Created 3 dashboards using IBM Cognos Analytics as follows:
 1. Current Technology Usage
    <img width="1349" height="684" alt="Current" src="https://github.com/user-attachments/assets/3d379354-eaa5-49a1-8fd2-c095f8d11e2b" />
 
@@ -41,6 +55,5 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS
    
    Panel 4 - Respondent Count by Age, classified by Education Level
 
-## Files included
-* Technology trend in analyzed and the report is presented in the file project_ppt.pdf uploaded above.
+
 
