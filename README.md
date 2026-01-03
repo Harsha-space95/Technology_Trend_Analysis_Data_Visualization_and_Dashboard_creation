@@ -1,8 +1,9 @@
 # Technology_Trend_Analysis_IBM_Cognos_Analytics
 
-## Software Used 
+## Tools Used 
 * IBM Cognos Analytics
-
+* Python programming
+  
 ## Dataset Used
 Stack Survey data
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/T3iZyjwN9ifjS-B0JaYVgw/survey-data-updated%205.csv
